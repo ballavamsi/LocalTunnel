@@ -1,3 +1,3 @@
 docker build -t ballavamsi/localtunnel:latest .
 docker login
-docker push ballavamsi/localtunnel
+docker push ballavamsi/localtunnel:latest
